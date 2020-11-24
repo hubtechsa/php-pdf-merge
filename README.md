@@ -4,19 +4,17 @@ PDF Merge library for PHP.
 
 Install with composer:
 
-`composer require jurosh/pdf-merge`
+`composer require hubdesksa/pdf-merge`
 
 Should add dependency:
 
 ```json
-"jurosh/pdf-merge": "^2.0"
+"hubdesksa/pdf-merge": "^2.0"
 ```
 
 ## Highlights
 
 Pdf merging with modes portrait/landscape.
-
-Tested in Laravel4 & Laravel5 framework (but still can be used without any framework as standalone utility).
 
 ## Usage
 
